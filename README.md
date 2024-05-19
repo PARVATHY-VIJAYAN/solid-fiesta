@@ -1,6 +1,7 @@
-# Write Python programs for the following:
+# Tuple & Set
+## Write Python programs for the following:
 
-1. To accept a sequence of comma-separated numbers from the user and generate the following with those numbers:-
+1.To accept a sequence of comma-separated numbers from the user and generate the following with those numbers:-
 a.Tuple
 b.Set
 
